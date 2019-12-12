@@ -35,7 +35,12 @@ Follow the instructions onscreen and set CIDR block to 10.0.0.0/16
 
 * Click on *Create Subnet*, you will see the window below
 
-
+![subnet2](https://user-images.githubusercontent.com/39962972/70742884-dc45ae80-1d1e-11ea-8ae8-30a028197315.png)
 
 * Create a subnet. Attach it to the VPC you just created, and set the CIDR block to 10.0.0.0/20
+
+
+## Step 4:
+
+
 
