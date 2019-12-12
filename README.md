@@ -15,4 +15,5 @@ Here, you can select the VPC service to create your own VPC which is the first s
 * Click on 'Your VPCs'
 * Select **Create VPC**
 * You will see the below window after you have clicked the 'Create VPC' tab.
-![](images/VPC_creation.png)
+![VPC_creation](https://user-images.githubusercontent.com/39962972/70740041-8a018f00-1d18-11ea-87a6-511b1a8c1f8a.png)
+
